@@ -1,6 +1,7 @@
 ### Olá! Me chamo Guilherme Cidade 👋
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Estagiário Desenvolvimento Vem Ser DBC
 ##
 
 <div align="center">

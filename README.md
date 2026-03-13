@@ -1,7 +1,7 @@
 ### Olá! Me chamo Guilherme Cidade 👋
 
-- Estudante de Análise e Desenvolvimento de Sistemas.
-- Desenvolvedor Java - DBC Company
+- Formado em Análise e Desenvolvimento de Sistemas.
+- Software Engineer
 #
 <div>
   <a href="https://www.instagram.com/guilhermecidade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
